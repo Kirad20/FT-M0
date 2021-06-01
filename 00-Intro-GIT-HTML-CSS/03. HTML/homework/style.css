@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+  }
+img{
+    width: 400px;
+  }
+  #thirdDiv{
+    background-color: brown;
+    width: 600px;
+    height: 500px;
+    padding: 50px;
+    border-color: blue;
+    border-style: double;
+  }
+body {
+    display: flex;
+    align-items: center;
+    background: url('https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500')
+  }
+  #spanId{
+    font-size: 18px;
+    margin: 50px;
+  }
+  div{
+      margin: auto;
+  }
